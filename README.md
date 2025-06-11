@@ -1,7 +1,5 @@
 
-![]([https://example.com/logo.png](https://blog.kakaocdn.net/dn/bVtSYe/btsOuOScNl6/H30WkKIufzRTHyKq2KYk0k/img.gif))
-
-
+<img src="[https://blog.kakaocdn.net/dn/cKypL2/btspH1Akzgu/ThK260gSHDnwbhrJYM5d9k/img.webp](https://example.com/logo.png](https://blog.kakaocdn.net/dn/bVtSYe/btsOuOScNl6/H30WkKIufzRTHyKq2KYk0k/img.gif)">
 
 
 
