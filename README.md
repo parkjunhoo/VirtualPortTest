@@ -14,12 +14,7 @@ bcdedit /enum | findstr /i testsigning
 
 **다운로드 링크:**
 https://sourceforge.net/projects/com0com/files/com0com/3.0.0.0/com0com-3.0.0.0-i386-and-x64-signed.zip/download
-
-**파일 구조:**
-📁 com0com/
-📁 3.0.0.0/
-📄 com0com-3.0.0.0-i386-and-x64-signed.zip ← 이것!
-📄 com0com-3.0.0.0-i386-and-x64-unsigned.zip
+com0com-3.0.0.0-i386-and-x64-signed.zip
 
 
 ## 4. 설치 후 확인
